@@ -23,8 +23,8 @@ Weather API
 
  Установка и запуск
 1. Клонировать репозиторий
-git clone https://github.com/ТВОЙ-НИК/НАЗВАНИЕ-РЕПОЗИТОРИЯ.git
-cd НАЗВАНИЕ-РЕПОЗИТОРИЯ
+git clone https://github.com/Erbol05-bit/react-Weather-App.git
+cd react-Weather-App
 
 2. Установить зависимости
 npm install
@@ -57,15 +57,3 @@ GitHub Pages должен быть настроен на:
 Branch: gh-pages
 Folder: / (root)
 
-### Структура проекта
-Web Weather API/
-├── public/
-├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
